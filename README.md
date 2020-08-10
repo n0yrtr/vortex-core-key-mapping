@@ -4,4 +4,4 @@
 
 実際にvortex coreにファイルを書き込むのはbinaryファイル
 
-https://tsfreddie.github.io/much-programming-core://tsfreddie.github.io/much-programming-core/
+https://tsfreddie.github.io/much-programming-core/
